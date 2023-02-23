@@ -29,7 +29,7 @@ PAPAZIAN Maxime
 ## Compilation
 
 - se placer à la racine du projet
-- ./gradlew run
+- gradle run ( ou ./gradlew run)
 
 ## Tests
 
@@ -50,3 +50,11 @@ PAPAZIAN Maxime
 
 - ./gradlew javadoc
 le fichier est dans app/build/docs/javadoc/index.html
+
+## Images
+
+<img src="https://user-images.githubusercontent.com/93158921/220811291-09e91c4f-3943-4197-acc6-f18c29b06d5f.png" width="800">
+<img src="https://user-images.githubusercontent.com/93158921/220811449-945e22d0-8b2d-4356-b15c-2acb390cbeb8.png" width="800">
+<img src="https://user-images.githubusercontent.com/93158921/220811518-50e829e3-534f-4c34-b732-aaa01b1d1686.png" width="800">
+
+
