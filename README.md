@@ -1,4 +1,4 @@
-# GameEDGL
+# Game2DGL
 
 ## Description
 
