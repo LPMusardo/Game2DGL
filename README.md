@@ -14,16 +14,16 @@ Implémentation d'une couche Gameplay au dessus du moteur de jeu : **Space Invad
 
 
 ## Bug connu à ce jour
-- certaine configuration du son sous linux 
+- certaines configurations du son sous linux peuvent faire crash le jeu
 
 ## EQUIPE
 
 31
 
-GAZAIX Damien
-MUSARDO Léo-Paul
-ABU RABIA Heba
-GUILIANI Maxime
+GAZAIX Damien \
+MUSARDO Léo-Paul \
+ABU RABIA Heba \
+GUILIANI Maxime \
 PAPAZIAN Maxime
 
 ## Compilation
