@@ -1,4 +1,20 @@
-# Game
+# GameEDGL
+
+## Description
+
+**Conception, Implémentation et Test** d'un **moteur de jeu 2D**. \
+Architectures en moteurs indépendants avec système d'événements: 
+- Moteur Physique
+- Moteur Graphique
+- Moteur de son
+- Moteur "IA"
+- Kernel
+
+Implémentation d'une couche Gameplay au dessus du moteur de jeu : **Space Invaders** (en très beau !)
+
+
+## Bug connu à ce jour
+- certaine configuration du son sous linux 
 
 ## EQUIPE
 
